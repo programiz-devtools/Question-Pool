@@ -1,0 +1,11 @@
+E60010="Exam with id does not exist."
+E60011="Failed to send emails to some candidates with id{}"
+E60013="candidate list is empty"
+E70001={"errorCode":"E70001","message": "No candidates found for the exam"}
+E70002={"errorCode":"E70002","message": "Cannot add candidates to this Exam or exam not found"}
+E70003={"errorCode":"E70003","message": "Candidate with the given email already exists for this exam"}
+E70004="Cannot delete the invited candidate"
+E70005="Candidate not found"
+E70006="No emails sent"
+E70008="no candidate id provided"
+E60014="Invalid Token"

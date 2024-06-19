@@ -1,0 +1,221 @@
+2024-03-14 10:31:03,646 [INFO] Watching for file changes with StatReloader
+2024-03-14 10:31:23,393 [WARNING] Unauthorized: /examate/subjects/list/
+2024-03-14 10:31:24,547 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 10:31:24,630 [ERROR] Internal Server Error: /examate/ticket/ticket-status-count/
+2024-03-14 10:32:53,539 [WARNING] Unauthorized: /examate/subjects/list/
+2024-03-14 10:32:54,773 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 10:32:57,597 [ERROR] Internal Server Error: /examate/ticket/ticket-status-count/
+2024-03-14 10:53:59,224 [INFO] Watching for file changes with StatReloader
+2024-03-14 10:55:58,864 [INFO] Watching for file changes with StatReloader
+2024-03-14 10:57:32,995 [WARNING] Bad Request: /examatecandidates/check-token-expiration/
+2024-03-14 10:57:33,377 [INFO] Submitted candidates count: 2
+2024-03-14 10:57:33,950 [INFO] Submitted candidates count: 1
+2024-03-14 10:57:34,680 [WARNING] Bad Request: /examatecandidates/4/add-candidate/
+2024-03-14 10:57:35,894 [WARNING] Bad Request: /examatecandidates/access-link/
+2024-03-14 10:57:37,674 [WARNING] Bad Request: /examate/exam/download-mark-list/99/
+2024-03-14 10:57:38,584 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:38,985 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:39,351 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:39,731 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:40,181 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:41,335 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:41,773 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:42,129 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:42,529 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:42,897 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:43,268 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:43,629 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:43,987 [WARNING] Unauthorized: /examate/exam/create-exam/
+2024-03-14 10:57:44,666 [WARNING] Forbidden: /examate/exam/create-exam/
+2024-03-14 10:57:45,498 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:45,874 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 10:57:46,673 [WARNING] Forbidden: /examate/exam/exam-list/
+2024-03-14 10:57:47,793 [WARNING] Not Found: /examate/exam/exam-questions/2/
+2024-03-14 10:57:48,931 [WARNING] Bad Request: /examate/exam/update-exam/42/
+2024-03-14 10:57:49,335 [WARNING] Bad Request: /examate/exam/update-exam/43/
+2024-03-14 10:57:49,704 [WARNING] Bad Request: /examate/exam/update-exam/44/
+2024-03-14 10:57:50,120 [WARNING] Bad Request: /examate/exam/update-exam/45/
+2024-03-14 10:57:50,492 [WARNING] Bad Request: /examate/exam/update-exam/46/
+2024-03-14 10:57:51,690 [WARNING] Bad Request: /examate/exam/update-exam/49/
+2024-03-14 10:57:52,963 [WARNING] Bad Request: /examate/exam/update-exam/52/
+2024-03-14 10:57:53,403 [WARNING] Bad Request: /examate/exam/update-exam/53/
+2024-03-14 10:57:54,214 [WARNING] Bad Request: /examate/exam/update-exam/55/
+2024-03-14 10:57:54,611 [WARNING] Bad Request: /examate/exam/update-exam/56/
+2024-03-14 10:57:54,970 [WARNING] Bad Request: /examate/exam/update-exam/57/
+2024-03-14 10:57:55,342 [WARNING] Bad Request: /examate/exam/update-exam/58/
+2024-03-14 10:57:55,738 [WARNING] Bad Request: /examate/exam/update-exam/59/
+2024-03-14 10:57:56,208 [WARNING] Bad Request: /examate/exam/update-exam/60/
+2024-03-14 10:57:56,627 [WARNING] Bad Request: /examate/exam/update-exam/61/
+2024-03-14 10:57:58,567 [WARNING] Bad Request: /examate/exam/exam-detail/
+2024-03-14 10:57:59,702 [WARNING] Bad Request: /examate/exam/regenarate-questions/73/2/
+2024-03-14 10:58:00,169 [WARNING] Bad Request: /examate/exam/exam-delete/75/
+2024-03-14 10:58:01,429 [WARNING] Bad Request: /examate/mark/evaluate-free-answer/
+2024-03-14 10:58:04,983 [WARNING] Bad Request: /examate/organization/delete-user/86/
+2024-03-14 10:58:05,354 [WARNING] Not Found: /examate/organization/delete-user/999/
+2024-03-14 10:58:07,064 [WARNING] Not Found: /examate/organization/users/
+2024-03-14 10:58:07,739 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 10:58:08,809 [WARNING] Not Found: /examate/organization/users/
+2024-03-14 10:58:09,486 [WARNING] Forbidden: /examate/organization/users/
+2024-03-14 10:58:10,499 [WARNING] Bad Request: /examate/organization/users/
+2024-03-14 10:58:10,862 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 10:58:12,255 [WARNING] Not Found: /examate/organization/searchuser/
+2024-03-14 10:58:13,659 [WARNING] Bad Request: /examate/organization/switch-user-status/111/
+2024-03-14 10:58:14,098 [WARNING] Not Found: /examate/organization/switch-user-status/999/
+2024-03-14 10:58:15,509 [WARNING] Not Found: /question/approve-question/999/
+2024-03-14 10:58:15,880 [WARNING] Received invalid data for question creation: {'is_drafted': [ErrorDetail(string='This field is required.', code='required')], 'subject_id': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+2024-03-14 10:58:15,880 [WARNING] Bad Request: /question/create-question/
+2024-03-14 10:58:16,248 [INFO] question created successfully:32
+2024-03-14 10:58:16,251 [INFO] Free answer question created successfully:32
+2024-03-14 10:58:16,604 [INFO] question created successfully:33
+2024-03-14 10:58:16,646 [INFO] option question created successfully:33
+2024-03-14 10:58:17,046 [INFO] question created successfully:34
+2024-03-14 10:58:17,049 [WARNING] Bad Request: /question/create-question/
+2024-03-14 10:58:17,413 [WARNING] Not Found: /question/question-details/999/
+2024-03-14 10:58:18,616 [WARNING] Not Found: /question/question-details/999/
+2024-03-14 10:58:21,774 [WARNING] Bad Request: /question/update-question/63/
+2024-03-14 10:58:22,171 [WARNING] Not Found: /question/update-question/21/
+2024-03-14 10:58:22,580 [WARNING] Bad Request: /question/update-question/67/
+2024-03-14 10:58:23,006 [WARNING] Bad Request: /question/update-question/72/
+2024-03-14 10:58:24,616 [WARNING] Bad Request: /question/update-question/82/
+2024-03-14 10:58:25,004 [WARNING] Conflict: /examate/subjects/create/
+2024-03-14 10:58:25,412 [WARNING] Bad Request: /examate/subjects/create/
+2024-03-14 10:58:26,173 [WARNING] Bad Request: /examate/subjects/create/
+2024-03-14 10:58:26,526 [WARNING] Unauthorized: /examate/subjects/create/
+2024-03-14 10:58:27,322 [WARNING] Unauthorized: /examate/subjects/delete/233/
+2024-03-14 10:58:27,680 [WARNING] Not Found: /examate/subjects/delete/235/
+2024-03-14 10:58:29,889 [WARNING] Not Found: /examate/subjects/search/
+2024-03-14 10:58:30,654 [WARNING] Bad Request: /examate/ticket/buy-ticket/
+2024-03-14 10:58:31,047 [WARNING] Bad Request: /examate/ticket/buy-ticket/
+2024-03-14 10:58:31,432 [WARNING] Bad Request: /examate/ticket/buy-ticket/
+2024-03-14 10:58:32,619 [WARNING] Bad Request: /examate/ticket/buy-ticket/
+2024-03-14 10:58:32,982 [WARNING] Unauthorized: /examate/ticket/buy-ticket/
+2024-03-14 10:58:33,392 [WARNING] Forbidden: /examate/ticket/buy-ticket/
+2024-03-14 10:58:35,209 [ERROR] Internal Server Error: /examate/user-register/
+2024-03-14 10:58:35,241 [WARNING] Conflict: /examate/user-register/
+2024-03-14 10:58:35,277 [WARNING] Conflict: /examate/user-register/
+2024-03-14 10:58:35,319 [WARNING] Conflict: /examate/user-register/
+2024-03-14 10:58:35,365 [WARNING] Bad Request: /examate/user-register/
+2024-03-14 10:58:35,370 [WARNING] Bad Request: /examate/user-register/
+2024-03-14 11:26:27,299 [INFO] Watching for file changes with StatReloader
+2024-03-14 11:26:49,874 [WARNING] Unauthorized: /question/question-list/
+2024-03-14 11:26:49,932 [WARNING] Not Found: /api/token/refresh/
+2024-03-14 11:26:50,008 [WARNING] Unauthorized: /question/question-list/
+2024-03-14 11:27:53,244 [INFO] question created successfully:119
+2024-03-14 11:27:53,453 [INFO] Free answer question created successfully:119
+2024-03-14 11:29:27,717 [INFO] question created successfully:120
+2024-03-14 11:30:37,799 [INFO] question created successfully:121
+2024-03-14 11:43:01,231 [INFO] Submitted candidates count: 0
+2024-03-14 11:43:01,231 [INFO] Submitted candidates count: 0
+2024-03-14 11:43:06,185 [WARNING] Bad Request: /examate/exam/update-exam/348/
+2024-03-14 11:54:50,417 [WARNING] Unauthorized: /examate/subjects/list/
+2024-03-14 11:54:51,349 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 11:54:52,331 [ERROR] Internal Server Error: /examate/ticket/ticket-status-count/
+2024-03-14 11:56:47,036 [WARNING] Unauthorized: /examate/subjects/list/
+2024-03-14 11:56:47,872 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 11:56:50,592 [ERROR] Internal Server Error: /examate/ticket/ticket-status-count/
+2024-03-14 11:57:51,870 [WARNING] Unauthorized: /examate/subjects/list/
+2024-03-14 11:57:51,981 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 11:57:55,533 [ERROR] Internal Server Error: /examate/ticket/ticket-status-count/
+2024-03-14 12:00:22,530 [INFO] /home/abhijithg/Desktop/Examate/examate/backend/examate_project/question_management/views.py changed, reloading.
+2024-03-14 12:00:23,050 [INFO] Watching for file changes with StatReloader
+2024-03-14 12:02:02,559 [WARNING] Bad Request: /examatecandidates/check-token-expiration/
+2024-03-14 12:02:02,951 [INFO] Submitted candidates count: 2
+2024-03-14 12:02:03,334 [INFO] Submitted candidates count: 1
+2024-03-14 12:02:04,183 [WARNING] Bad Request: /examatecandidates/4/add-candidate/
+2024-03-14 12:02:05,898 [WARNING] Bad Request: /examatecandidates/access-link/
+2024-03-14 12:02:07,685 [WARNING] Bad Request: /examate/exam/download-mark-list/99/
+2024-03-14 12:02:08,483 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:08,843 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:09,199 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:09,626 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:10,040 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:11,190 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:11,615 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:11,975 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:12,385 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:12,748 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:13,112 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:13,487 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:13,841 [WARNING] Unauthorized: /examate/exam/create-exam/
+2024-03-14 12:02:14,517 [WARNING] Forbidden: /examate/exam/create-exam/
+2024-03-14 12:02:15,259 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:15,638 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:02:16,411 [WARNING] Forbidden: /examate/exam/exam-list/
+2024-03-14 12:02:17,535 [WARNING] Not Found: /examate/exam/exam-questions/2/
+2024-03-14 12:02:18,617 [WARNING] Bad Request: /examate/exam/update-exam/42/
+2024-03-14 12:02:18,996 [WARNING] Bad Request: /examate/exam/update-exam/43/
+2024-03-14 12:02:19,354 [WARNING] Bad Request: /examate/exam/update-exam/44/
+2024-03-14 12:02:19,725 [WARNING] Bad Request: /examate/exam/update-exam/45/
+2024-03-14 12:02:20,150 [WARNING] Bad Request: /examate/exam/update-exam/46/
+2024-03-14 12:02:21,341 [WARNING] Bad Request: /examate/exam/update-exam/49/
+2024-03-14 12:02:22,521 [WARNING] Bad Request: /examate/exam/update-exam/52/
+2024-03-14 12:02:22,930 [WARNING] Bad Request: /examate/exam/update-exam/53/
+2024-03-14 12:02:23,727 [WARNING] Bad Request: /examate/exam/update-exam/55/
+2024-03-14 12:02:24,119 [WARNING] Bad Request: /examate/exam/update-exam/56/
+2024-03-14 12:02:24,479 [WARNING] Bad Request: /examate/exam/update-exam/57/
+2024-03-14 12:02:24,855 [WARNING] Bad Request: /examate/exam/update-exam/58/
+2024-03-14 12:02:25,254 [WARNING] Bad Request: /examate/exam/update-exam/59/
+2024-03-14 12:02:25,719 [WARNING] Bad Request: /examate/exam/update-exam/60/
+2024-03-14 12:02:26,103 [WARNING] Bad Request: /examate/exam/update-exam/61/
+2024-03-14 12:02:28,087 [WARNING] Bad Request: /examate/exam/exam-detail/
+2024-03-14 12:02:29,204 [WARNING] Bad Request: /examate/exam/regenarate-questions/73/2/
+2024-03-14 12:02:29,660 [WARNING] Bad Request: /examate/exam/exam-delete/75/
+2024-03-14 12:02:30,879 [WARNING] Bad Request: /examate/mark/evaluate-free-answer/
+2024-03-14 12:02:34,386 [WARNING] Bad Request: /examate/organization/delete-user/86/
+2024-03-14 12:02:34,817 [WARNING] Not Found: /examate/organization/delete-user/999/
+2024-03-14 12:02:36,506 [WARNING] Not Found: /examate/organization/users/
+2024-03-14 12:02:37,178 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 12:02:38,273 [WARNING] Not Found: /examate/organization/users/
+2024-03-14 12:02:38,944 [WARNING] Forbidden: /examate/organization/users/
+2024-03-14 12:02:39,944 [WARNING] Bad Request: /examate/organization/users/
+2024-03-14 12:02:40,301 [WARNING] Unauthorized: /examate/organization/users/
+2024-03-14 12:02:41,653 [WARNING] Not Found: /examate/organization/searchuser/
+2024-03-14 12:02:43,006 [WARNING] Bad Request: /examate/organization/switch-user-status/111/
+2024-03-14 12:02:43,364 [WARNING] Not Found: /examate/organization/switch-user-status/999/
+2024-03-14 12:02:44,789 [WARNING] Not Found: /question/approve-question/999/
+2024-03-14 12:02:45,151 [WARNING] Received invalid data for question creation: {'is_drafted': [ErrorDetail(string='This field is required.', code='required')], 'subject_id': [ErrorDetail(string='Invalid pk "1" - object does not exist.', code='does_not_exist')]}
+2024-03-14 12:02:45,151 [WARNING] Bad Request: /question/create-question/
+2024-03-14 12:02:45,519 [INFO] question created successfully:32
+2024-03-14 12:02:45,522 [INFO] Free answer question created successfully:32
+2024-03-14 12:02:45,887 [INFO] question created successfully:33
+2024-03-14 12:02:45,892 [INFO] option question created successfully:33
+2024-03-14 12:02:46,323 [INFO] question created successfully:34
+2024-03-14 12:02:46,325 [WARNING] Bad Request: /question/create-question/
+2024-03-14 12:02:46,720 [WARNING] Not Found: /question/question-details/999/
+2024-03-14 12:02:47,802 [WARNING] Not Found: /question/question-details/999/
+2024-03-14 12:02:50,935 [WARNING] Bad Request: /question/update-question/63/
+2024-03-14 12:02:51,323 [WARNING] Not Found: /question/update-question/21/
+2024-03-14 12:02:51,690 [WARNING] Bad Request: /question/update-question/67/
+2024-03-14 12:02:52,106 [WARNING] Bad Request: /question/update-question/72/
+2024-03-14 12:02:53,728 [WARNING] Bad Request: /question/update-question/82/
+2024-03-14 12:02:54,089 [WARNING] Conflict: /examate/subjects/create/
+2024-03-14 12:02:54,449 [WARNING] Bad Request: /examate/subjects/create/
+2024-03-14 12:02:55,162 [WARNING] Bad Request: /examate/subjects/create/
+2024-03-14 12:02:55,590 [WARNING] Unauthorized: /examate/subjects/create/
+2024-03-14 12:02:56,336 [WARNING] Unauthorized: /examate/subjects/delete/233/
+2024-03-14 12:02:56,697 [WARNING] Not Found: /examate/subjects/delete/235/
+2024-03-14 12:02:58,546 [WARNING] Not Found: /examate/subjects/search/
+2024-03-14 12:02:59,296 [WARNING] Bad Request: /examate/ticket/buy-ticket/
+2024-03-14 12:02:59,717 [WARNING] Bad Request: /examate/ticket/buy-ticket/
+2024-03-14 12:03:00,133 [WARNING] Bad Request: /examate/ticket/buy-ticket/
+2024-03-14 12:03:01,275 [WARNING] Bad Request: /examate/ticket/buy-ticket/
+2024-03-14 12:03:01,630 [WARNING] Unauthorized: /examate/ticket/buy-ticket/
+2024-03-14 12:03:01,979 [WARNING] Forbidden: /examate/ticket/buy-ticket/
+2024-03-14 12:03:03,648 [ERROR] Internal Server Error: /examate/user-register/
+2024-03-14 12:03:03,705 [WARNING] Conflict: /examate/user-register/
+2024-03-14 12:03:03,770 [WARNING] Conflict: /examate/user-register/
+2024-03-14 12:03:03,856 [WARNING] Conflict: /examate/user-register/
+2024-03-14 12:03:03,919 [WARNING] Bad Request: /examate/user-register/
+2024-03-14 12:03:03,923 [WARNING] Bad Request: /examate/user-register/
+2024-03-14 12:06:33,532 [INFO] Watching for file changes with StatReloader
+2024-03-14 12:07:20,848 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:07:37,176 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:09:06,931 [INFO] /home/abhijithg/Desktop/Examate/examate/backend/examate_project/exam_management/views.py changed, reloading.
+2024-03-14 12:09:07,420 [INFO] Watching for file changes with StatReloader
+2024-03-14 12:09:10,709 [INFO] /home/abhijithg/Desktop/Examate/examate/backend/examate_project/exam_management/views.py changed, reloading.
+2024-03-14 12:09:11,115 [INFO] Watching for file changes with StatReloader
+2024-03-14 12:09:14,260 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:20:17,869 [INFO] Watching for file changes with StatReloader
+2024-03-14 12:22:46,374 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 12:41:25,653 [WARNING] Bad Request: /examate/exam/create-exam/
+2024-03-14 13:46:50,003 [WARNING] Unauthorized: /examate/ticket/ticket-status-count/

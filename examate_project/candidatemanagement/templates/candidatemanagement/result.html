@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Candidate Result</title>
+    <style>
+        * {
+           box-sizing: border-box;
+        }
+        h1 {
+           text-align: center;
+           background-color: rgb(51, 118, 206);
+           color: white;
+           padding: 12px;
+        }
+        table {
+           width: 60%;
+           border-collapse: collapse;
+           margin-top: 20px;
+        }
+        th, td {
+           border: 1px solid #ddd;
+           padding: 8px;
+           text-align: left;
+        }
+        th {
+           background-color: #f2f2f2;
+        }
+        tr:nth-child(even) {
+           background-color: #f2f2f2;
+        }
+        footer {
+           padding: 20px;
+           text-align: center;
+           width: 100%;
+        }
+        .overall-result {
+            text-align: center;
+            margin-top: 20px;
+            font-weight: bold;
+            font-size: 20px;
+        }
+        .pass {
+            color: green;
+        }
+        .fail {
+            color: red;
+        }
+     </style>
+</head>
+<body>
+    <div>
+        <h1>Candidate Result</h1>
+        
+        <h2>Candidate Information</h2>
+        <table>
+            <caption>Details of: {{ candidate.name }}</caption>
+            <tr>
+                <th>Candidate ID</th>
+                <td>{{ candidate.id }}</td>
+            </tr>
+            <tr>
+                <th>Name</th>
+                <td>{{ candidate.name }}</td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td>{{ candidate.email }}</td>
+            </tr>
+        </table>
+        
+        <h2>Exam Results</h2>
+        <table>
+            <caption>Exam Results for Candidate: {{ candidate.name }}</caption>
+            <thead>
+                <tr>
+                    <th>Subject</th>
+                    <th>Mark</th>
+                    <th>Total</th>
+                    <th>Pass %</th>
+                    <th>Percentage scored</th>
+                    <th>Outcome Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for subject, results in exam_results.items %}
+                <tr>
+                    <td>{{ subject }}</td>
+                    <td>
+                        {% for result in results %}
+                            {{ result.mark }}
+                        {% endfor %}
+                    </td>
+                    <td>
+                        {% for result in results %}
+                            {{ result.total }}
+                        {% endfor %}
+                    </td>
+                    <td>
+                        {% for result in results %}
+                            {{ result.percentage }}
+                        {% endfor %}
+
+                    </td>
+                    <td>
+                        {% for result in results %}
+                            {{ result.percentage_scored }}
+                        {% endfor %}
+
+                    </td>
+                    <td>
+                        {% for result in results %}
+                        {% if result.outcome_status == 1 %}
+                            Pass
+                        {% else %}
+                            Fail
+                        {% endif %}
+                    {% endfor %} 
+                    </td>
+                   
+                    
+                </tr>
+                {% endfor %}
+
+            </tbody>
+        </table>
+        <div class="overall-result {% if overall_result == 'Pass' %}pass{% else %}fail{% endif %}">
+            Overall Result Of The Exam: {{ overall_result }}
+        </div>
+        
+        <footer>
+            <p>Thank you for attending the exam</p>
+            <p>Copyright ©</p>
+        </footer>
+    </div>
+</body>
+</html>

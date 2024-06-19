@@ -1,0 +1,41 @@
+# Ignore virtual environment folders (if using virtualenv or venv)
+/migrations/
+*.pyc
+.coverage
+.coveragerc
+
+
+
+# Ignore database files
+db.sqlite3
+
+# Ignore static and media files (upload folders)
+staticfiles/
+media/
+
+# Ignore log files
+*.log
+
+# Ignore configuration files containing sensitive information
+*.env
+
+# Ignore Python bytecode files
+__pycache__/
+
+# Ignore local development settings
+local_settings.py
+
+# Ignore IDE or editor-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore system or hidden files
+.DS_Store
+Thumbs.db
+
+# Ignore package lock files
+pip-lock.txt
+poetry.lock
+.coverage
